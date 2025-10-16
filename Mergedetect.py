@@ -9,7 +9,7 @@ def iou(box1, box2):
     x2_max, y2_max = x2 + w2/2, y2 + h2/2
 
     inter_xmin = max(x1_min, x2_min)
-    inter_ymin = max(y1_min, y2_min)
+    # inter_ymin = max(y1_min, y2_min)
     inter_xmax = min(x1_max, x2_max)
     inter_ymax = min(y1_max, y2_max)
 
@@ -20,7 +20,7 @@ def iou(box1, box2):
     return inter_area / union if union > 0 else 0
 
 def nms(detections, iou_thresh=0.5):
-    detections = sorted(detections, key=lambda x: x[1], reverse=True)  # sort by confidence
+    # detections = sorted(detections, key=lambda x: x[1], reverse=True)  # sort by confidence
     keep = []
 
     while detections:
@@ -36,3 +36,5 @@ def save_detections(final_dets, RESULTS_FILE):
             f.write(f"{cls} {conf:.2f} {x:.1f} {y:.1f} {w:.1f} {h:.1f}\n")
 
     print(f"✅ Saved merged detections to {RESULTS_FILE}")
+
+#unco 23 12
