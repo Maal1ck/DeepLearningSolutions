@@ -135,6 +135,9 @@ This project contributes to research in **deep learning for geospatial applicati
 - *High-Precision Mango Orchard Mapping Using a Deep Learning Pipeline Leveraging Object Detection and Segmentation* (2024)  
 - Comparative experiments with **YOLOv8**, **Mask R-CNN**, and **U-Net** architectures.
 
+## Thanks
+- Drone Globe team especially Dr. Ali Achebour for motivating this Idea
+- My team members with whom I worked (Aymane Zian, Ayman Sediki)
 ---
 
 ## 🧭 Future Work
