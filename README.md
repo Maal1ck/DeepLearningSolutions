@@ -153,7 +153,7 @@ If you use this repository in your research, please cite it as follows:
 
 ```bibtex
 @software{dieye2025deeplearningsolutions,
-  author       = {El Hadji Malick Dieye},
+  author       = {El Hadji Malick Dieye et Al.},
   title        = {DeepLearningSolutions: End-to-End Deep Learning Pipelines for Object Detection and Segmentation},
   year         = {2025},
   publisher    = {GitHub},
@@ -169,7 +169,7 @@ For formal publications, you may also reference related work in precision agricu
 
 ## 👨‍💻 Author
 
-**El Hadji Malick DIEYE**  
+**El Hadji Malick DIEYE**  **Aymane SEDIKI** **Ayman Zian**
 🎓 Master’s Student in Space Science & Technologies (CRASTE-LF)  
 🌍 National Point of Contact – Senegal, **SGAC**  
 🔗 [LinkedIn](https://linkedin.com/in/maal1ck) • [GitHub](https://github.com/Maal1ck)
