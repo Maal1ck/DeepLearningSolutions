@@ -20,9 +20,6 @@ This repository introduces a **modular and scalable workflow** combining:
 - 🔄 Intelligent merging and post-processing  
 - 📊 Geospatial export (GeoPackage, GeoJSON)
 
-<img width="813" height="685" alt="image" src="https://github.com/user-attachments/assets/98dbd57e-69b2-464f-b759-08b379420e31" />
-<img width="1269" height="439" alt="image" src="https://github.com/user-attachments/assets/06ef55cb-ec74-4c9a-b48d-8d9a722c06f9" />
-
 ---
 
 ## 🏗️ Pipeline Architecture
