@@ -177,9 +177,9 @@ For formal publications, you may also reference related work in precision agricu
           🌍 National Point of Contact – Senegal, **SGAC**  
           🔗 [LinkedIn](https://linkedin.com/in/maal1ck) • [GitHub](https://github.com/Maal1ck)
 - **Aymane SEDIKI**
-🎓Second year Master’s student in Data Science and Engineering at Faculty of Science Rabat
+🎓 Second year Master’s student in Data Science and Engineering at Faculty of Science Rabat
 - **Ayman Zian**
-Last year of Geomatics Engineering at the Faculty of Sciences and Techniques of Tangier
+🎓 Last year of Geomatics Engineering at the Faculty of Sciences and Techniques of Tangier
 
 
 ---
