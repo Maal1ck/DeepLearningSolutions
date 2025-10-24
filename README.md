@@ -172,10 +172,17 @@ For formal publications, you may also reference related work in precision agricu
 
 ## 👨‍💻 Author
 
-**El Hadji Malick DIEYE**  **Aymane SEDIKI** **Ayman Zian**
+**El Hadji Malick DIEYE**   
 🎓 Master’s Student in Space Science & Technologies (CRASTE-LF)  
 🌍 National Point of Contact – Senegal, **SGAC**  
 🔗 [LinkedIn](https://linkedin.com/in/maal1ck) • [GitHub](https://github.com/Maal1ck)
+**Aymane SEDIKI**
+Ayman Sediki 
+🎓Second year Master’s student in Data Science and Engineering at Faculty of Science Rabat
+**Ayman Zian**
+Aymane Zian 
+Last year of Geomatics Engineering at the Faculty of Sciences and Techniques of Tangier
+
 
 ---
 
